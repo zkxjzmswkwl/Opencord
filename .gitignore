@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/opencord
+opencord.so
+opencord.dylib
+opencord.dll
+opencord.a
+opencord.lib
+opencord-test-*
+*.exe
+*.o
+*.obj
+*.lst

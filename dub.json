@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Carter"
+	],
+	"copyright": "Copyright © 2021, Carter",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "opencord"
+}
